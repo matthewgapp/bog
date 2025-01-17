@@ -4,4 +4,5 @@ The world's fastest and most advanced python code gen AI model. Generate python 
 
 ```bash
 cargo install --path .
+slop fullstack_app.py --count 42069
 ```
